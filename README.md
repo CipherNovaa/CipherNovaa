@@ -57,7 +57,7 @@ A native PC fan remake of *007: The World Is Not Enough* (2000, original PlaySta
 <table>
 <tr>
 <td width="24%" valign="top"><b><a href="https://github.com/CipherNovaa/codecos-remote">codecos-remote</a></b></td>
-<td valign="top">An e-ink universal remote's BLE protocol and two-chip firmware, reversed and rebuilt as custom firmware with an e-paper display screensaver, then wrapped in a desktop control app. Utilizing multiple code agents such as Claude, Hermes and Codex for translating foreign documentation, writing and patching firmware with reusable tooling and extended logging.</td>
+<td valign="top">An e-ink universal remote's BLE protocol and two-chip firmware, reversed and rebuilt as custom firmware with an e-paper display screensaver, then wrapped in a desktop control app. Utilizing multiple code agents such as cloud LLMs, Hermes and Codex for translating foreign documentation, writing and patching firmware with reusable tooling and extended logging.</td>
 </tr>
 <tr>
 <td width="24%" valign="top"><b><a href="https://github.com/CipherNovaa/ac6-crt-5to4">ac6-crt-5to4</a></b></td>
