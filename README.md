@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<b>independent software development · agentic reverse engineering</b><br>
+<b>Independent software development · Agentic reverse engineering</b><br>
 C++ / Qt 6 · QML · Python · C · FFmpeg · Linux · Markdown · Lua<br>
 codec v1.49 · twine-pc
 </p>
@@ -42,7 +42,7 @@ A native PC fan remake of *007: The World Is Not Enough* (2000, original PlaySta
 <table>
 <tr>
 <td width="24%" valign="top"><b><a href="https://github.com/CipherNovaa/agent-skills">agent-skills</a></b></td>
-<td valign="top">Double-agent skill system: Cloud LLM as architect, local LLM model as operator, minimising token spending. A skill contract with earned autonomy and mandatory absolute verification, escalation from the local model to Cloud, a drift-detecting janitor, and shared memory across machines.</td>
+<td valign="top">Double-agent skill system: cloud LLM as architect, local LLM model as operator, minimising token spending. A skill contract with earned autonomy and mandatory absolute verification, escalation from the local model to Cloud, a drift-detecting janitor, and shared memory across machines.</td>
 </tr>
 <tr>
 <td width="24%" valign="top"><b><a href="https://github.com/CipherNovaa/supernote-agent">supernote-agent</a></b></td>
@@ -101,10 +101,10 @@ codec is my clearest example and my largest current project: over 110,000 lines 
 - **A unified, multi-device-compatible persistent memory the agents work from.** A project map (inside the project's agent instructions file) and 89 topic notes record every subsystem, decision and trap, so each session starts where the last one stopped instead of re-learning the codebase or wasting development time and tokens - keeping working context accurate and efficient while reducing hallucination rate.
 - **The right agent for the job.** Parallel read-only subagents explore and map a 20,000-line server before it's changed; a dedicated forensics agent works through cast telemetry on the hardest Dolby Vision and Cast receiver bugs; the main session drives the building with informative feedback and transparency for me to verify edits and view changed code.
 - **Audits as workflows.** A repeatable controlled multi-subagent swarm audit (a finder model per slice of the codebase, a skeptical checker model re-verifying each finding) ran twice over codec: 146 and 104 findings, catalogued to an artifact with descriptions and severity so nothing is glossed over; efficient, steady progress fixed and verified with confidence.
-- **Custom Markdown LLM Skills and Permission Gates** that encode how a subsystem is reviewed, or how an overnight media pipeline is checked, so the method is reusable rather than remembered. [agent-skills](https://github.com/CipherNovaa/agent-skills) is the same idea grown into a framework: a skill contract with earned autonomy, run by a local model and escalated to Cloud models.
+- **Custom Markdown LLM skills and permission gates** that encode how a subsystem is reviewed, or how an overnight media pipeline is checked, so the method is reusable rather than remembered. [agent-skills](https://github.com/CipherNovaa/agent-skills) is the same idea grown into a framework: a skill contract with earned autonomy, run by a local model and escalated to Cloud models.
 - **Giving agents eyes.** Tools that capture what's really on screen (a game's backbuffer, a TV's output, raw memory cache traces and additional logging) further minimizing dangerous hallucination risks.
-- **Absolute Verification Gates.** An offscreen screenshot harness for every view, a headless preview of the TV receiver, frame meters, and captures from the actual television. An agent's "it works" is considered a hallucination until each absolute verification gate is passed.
-- **Consistently Documenting Difficult Challenges, and putting learning first.** [codec's engineering notes](https://github.com/CipherNovaa/codec/blob/main/docs/ENGINEERING.md) tell nine of the hardest bugs: what was seen, what it really was, and how it was proven. Very often LLMs will attempt to gaslight the user into believing something is "impossible"; the only way to truly know what is possible or correct is through detailed understanding.
+- **Absolute verification gates.** An offscreen screenshot harness for every view, a headless preview of the TV receiver, frame meters, and captures from the actual television. An agent's "it works" is considered a hallucination until each absolute verification gate is passed.
+- **Consistently documenting difficult challenges, and putting learning first.** [codec's engineering notes](https://github.com/CipherNovaa/codec/blob/main/docs/ENGINEERING.md) tell nine of the hardest bugs: what was seen, what it really was, and how it was proven. Very often LLMs will attempt to gaslight the user into believing something is "impossible"; the only way to truly know what is possible or correct is through detailed understanding.
 
 <br>
 
