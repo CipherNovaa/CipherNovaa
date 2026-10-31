@@ -96,7 +96,7 @@ A native PC fan remake of *007: The World Is Not Enough* (2000, original PlaySta
 
 <img src="assets/workflow.svg" alt="Workflow" width="32%">
 
-codec is my clearest example and my largest current project: over 110,000 lines of C++, QML and Python, built in four months with multiple agentic coding development tools. What that looks like in practice:
+"codec" is my clearest example and my largest current project: over 110,000 lines of C++, QML and Python, built in four months with multiple agentic coding development tools. What that looks like in practice:
 
 - **A unified, multi-device-compatible persistent memory the agents work from.** A project map (inside the project's agent instructions file) and 89 topic notes record every subsystem, decision and trap, so each session starts where the last one stopped instead of re-learning the codebase or wasting development time and tokens - keeping working context accurate and efficient while reducing hallucination rate.
 - **The right agent for the job.** Parallel read-only subagents explore and map a 20,000-line server before it's changed; a dedicated forensics agent works through cast telemetry on the hardest Dolby Vision and Cast receiver bugs; the main session drives the building with informative feedback and transparency for me to verify edits and view changed code.
