@@ -5,7 +5,6 @@
 <p align="center">
 <b>Independent software development · Agentic reverse engineering</b><br>
 C++ / Qt 6 · QML · Python · C · FFmpeg · Linux · Markdown · Lua<br>
-codec v1.49 · twine-pc
 </p>
 
 <p align="center"><i>Building ambitious software with modern tools.</i></p>
